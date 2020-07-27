@@ -278,6 +278,12 @@
         <artifactId>data-index-storage-infinispan</artifactId>
         <version>${version.org.kie.kogito}</version>
       </dependency>
+
+      <dependency>
+        <groupId>org.kie.kogito</groupId>
+        <artifactId>explainability-core</artifactId>
+        <version>${version.org.kie.kogito}</version>
+      </dependency>
       
       <!-- drools -->
       <dependency>
